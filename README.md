@@ -1,5 +1,17 @@
 # Tomoshibi Bridge
 
+> **This repo is archived. The extension now lives inside the Tomoshibi
+> monorepo at [`tomoshibi/packages/bridge`](https://github.com/Michael-Obele/tomoshibi/tree/main/packages/bridge).**
+>
+> Nothing changed about the extension itself, and nothing changed about the
+> licence: `packages/bridge/` is PolyForm Noncommercial 1.0.0, while the rest of
+> that repo stays MIT. It moved because a licence applies to a directory, not to
+> a repo, and one repo is one thing to keep in sync — the protocol is pinned on
+> both sides, so the two halves belong in one checkout.
+>
+> Existing clones keep working. New work goes to the monorepo; this repo is a
+> frozen copy of the history up to the move.
+
 A small browser extension that lets your local [Tomoshibi](https://github.com/Michael-Obele/tomoshibi)
 read and drive pages in the browser you are already signed into.
 
